@@ -1,0 +1,16 @@
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.csprojAssemblyReference.cache
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.AssemblyInfoInputs.cache
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.AssemblyInfo.cs
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.csproj.CoreCompileInputs.cache
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.exe
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.deps.json
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.runtimeconfig.json
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.runtimeconfig.dev.json
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\ref\Module3_Task4.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\bin\Debug\net5.0\Module3_Task4.pdb
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\ref\Module3_Task4.dll
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.pdb
+C:\Users\Vira\learning\C# .NET\Module3_Task4\Module3_Task4\Module3_Task4\obj\Debug\net5.0\Module3_Task4.genruntimeconfig.cache

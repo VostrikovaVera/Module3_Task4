@@ -2,11 +2,17 @@
 
 namespace Module3_Task4
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var eventsTask = new EventsTask();
+            var sumResult = eventsTask.RunSum();
+
+            Console.WriteLine(sumResult);
+
+            var linqTask = new LINQTask();
+            linqTask.Run();
         }
     }
 }
